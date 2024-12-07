@@ -1,11 +1,11 @@
 {
-  "name": "chrome-extension-boilerplate-react",
-  "version": "5.0.4",
-  "description": "A chrome extension boilerplate built with React 18, Webpack 5, and Webpack Dev Server 4",
+  "name": "poetry-co-writer",
+  "version": "1.0.0",
+  "description": "A chrome extension  to help fix rudimentary poetry problems",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/lxieyang/chrome-extension-boilerplate-react.git"
+    "url": "https://github.com/hardik-rajpal/poem-cowriter.git"
   },
   "scripts": {
     "build": "node utils/build.js",
